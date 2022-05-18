@@ -1,0 +1,109 @@
+body {
+    background-color: lightyellow;
+    border: double 5px;
+    background-image: url("https://media.istockphoto.com/vectors/cats-vector-seamless-pattern-white-vector-id617884058?b=1&k=20&m=617884058&s=612x612&w=0&h=n0mqj92QOXfs2U_rRobKxM2joV2kLD4NurNAokvXQAI=");
+    font-family: 'Shadows Into Light', cursive;
+    margin: 70px;
+}
+
+h2 {
+    background-color: pink;
+    border: dashed 2px white;
+    margin: 10px;
+}
+
+div {
+    background-color: lightyellow;
+    border: solid;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.about {
+    margin: 10px;
+}
+
+.one {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightpink;
+    border: dashed 5px white;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.two {
+    margin: 90px;
+    border: double 5px white;
+    padding: 30px;
+
+}
+
+.three {
+    margin: 90px;
+    border: double 5px white;
+    padding: 30px;
+
+}
+
+.friendlist {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.four {
+    margin: 10px;
+    border: double 5px white;
+    padding: 30px;
+    background-color: pink;
+}
+
+.five {
+    margin: 10px;
+    border: double 5px white;
+    padding: 30px;
+    background-color: pink;
+}
+
+.six {
+    margin: 10px;
+    border: double 5px white;
+    padding: 30px;
+    background-color: pink;
+}
+
+.seven {
+    margin: 10px;
+    border: double 5px white;
+    padding: 30px;
+    background-color: pink;
+}
+
+ul {
+    background-color: lightyellow;
+    border: solid 1px;
+    margin: 5px;
+    padding: 35px;
+}
+
+.end {
+	margin:10px;
+}
+
+.food {
+    border: double 5px pink;
+
+}
+
+
+img {
+    width: 200px;
+    margin: 9px;
+    padding: 5px;
+
+}
